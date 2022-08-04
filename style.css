@@ -1,0 +1,70 @@
+.header,
+.main,
+.info,
+.review,
+.call-to-action,
+.footer{
+    padding-left: 12%;
+    padding-rigt: 12%;
+}
+
+
+.header,
+.footer,
+.main{
+    background-color: #1f2937;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.judul-text{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.header .menu{
+    color: #F9FAF8;
+}
+.deskripsi-text{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+button {
+    color:#3882F6;
+}
+
+.gambar-deskripsi{
+    border: 4px solid #3882F6;
+    border-radius: 25px;
+}
+
+.judul-info{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.review {
+    background-color: #E5E7EB;
+}
+
+.review .text-review{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+html, body{
+   padding: 0;
+   margin: 0;
+}

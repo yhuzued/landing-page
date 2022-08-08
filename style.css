@@ -90,6 +90,11 @@
     width: 370px;
     height: 213px;
   }
+
+  .sub-prestasi{
+    flex-direction: column;
+    gap: 12px;
+  }
 }
 
 .info{
